@@ -1,0 +1,15 @@
+D:\Carro cores\carrro cores\carrro cores\bin\Debug\carrro cores.exe.config
+F:\Carro cores\carrro cores\carrro cores\bin\Debug\carrro cores.exe.config
+F:\Carro cores\carrro cores\carrro cores\bin\Debug\carrro cores.exe
+F:\Carro cores\carrro cores\carrro cores\bin\Debug\carrro cores.pdb
+F:\Carro cores\carrro cores\carrro cores\bin\Debug\carrro cores.xml
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro_cores.Resources.resources
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro cores.vbproj.GenerateResource.Cache
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro cores.exe
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro cores.xml
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro cores.pdb
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro_cores.Cross.resources
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro_cores.Saveiro.resources
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro_cores.Voyage.resources
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro_cores.Fox.resources
+F:\Carro cores\carrro cores\carrro cores\obj\Debug\carrro_cores.Golf.resources
